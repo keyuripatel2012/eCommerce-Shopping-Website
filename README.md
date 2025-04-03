@@ -1,4 +1,4 @@
-# eCommerce Shopping Website | PHP - WAMP
+# eCommerce Shopping Website | PHP
 - For Run this project you must be need Xampp server or Wamp server
 - Download this zip file
 - Extract it at
